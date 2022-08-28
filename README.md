@@ -1,3 +1,5 @@
+Note: this is a fork with an attempt to remove jQuery and instead use vanilla js
+
 # [Bootstrap Table](https://bootstrap-table.com)
 
 [![Build Status](https://travis-ci.org/wenzhixin/bootstrap-table.svg)](https://travis-ci.org/wenzhixin/bootstrap-table)
